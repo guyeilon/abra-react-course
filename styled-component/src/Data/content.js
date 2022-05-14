@@ -49,7 +49,7 @@ const content = [
 		id: 6,
 		title: 'careers ',
 		headline: 'Looking for you!',
-		body: '<p> As part of your role, you will have the opportunity to develop from scratch, working closely with the product, design, and QA teams to deliver the best product. This is a great opportunity to join us and grow with other team members. \n \nSend CV to <a href="url">Jobsil@abra-it.com</a></p>',
+		body: '<p> As part of your role, you will have the opportunity to develop from scratch, working closely with the product, design, and QA teams to deliver the best product.\n This is a great opportunity to join us and grow with other team members. \n \nSend CV to <a href="url">Jobsil@abra-it.com</a></p>',
 		image: 'careers.png',
 		button: undefined,
 		column: 'right',
